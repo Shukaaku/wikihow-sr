@@ -1,7 +1,7 @@
 {
 	"name": "wikihow-sr",
 	"description": "Search wikihow for your query!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "dist/index.js",
 	"types": "typings/",
 	"repository": "https://github.com/Shukaaku/wikihow-sr.git",

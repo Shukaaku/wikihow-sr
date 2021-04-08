@@ -29,6 +29,8 @@ yarn add wikihow-sr
 ```js
 const search = require('wikihow-sr');
 
+// If no results are found, it returns null.
+
 // async/await
 (async () => {
 	const data = await search('how to clean');
